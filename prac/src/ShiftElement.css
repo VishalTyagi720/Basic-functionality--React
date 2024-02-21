@@ -1,0 +1,36 @@
+
+
+.div {
+    height: 200px;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.first_container {
+    height: 150px;
+    width: 200px;
+    line-height: 2rem;
+    /* border: 2px solid green; */
+}
+
+.second_container {
+    height: 150px;
+    width: 200px;
+    line-height: 2rem;
+    /* border: 2px solid skyblue; */
+}
+
+span {
+    font-weight: 800;
+}
+
+.swap_button_container {
+    /* border: 2px solid rebeccapurple; */
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}

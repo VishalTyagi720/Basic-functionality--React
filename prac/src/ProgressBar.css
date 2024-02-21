@@ -1,0 +1,16 @@
+.containers {
+    height: 20px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: rgb(238, 227, 215);
+    margin: 10px;
+}
+
+.sub_container {
+    height: 100%;
+    /* width: 100px; */
+    background-color: rgb(249, 79, 6);
+    border-radius: 10px;
+    color: white;
+    transition: 1s ease-in .5s;
+}
