@@ -21,6 +21,8 @@ import ImageSlider from './image_slider';
 import Pagination from './pagination';
 import JobBoard from './job_board';
 import ChildToParent from './childToParent';
+import TrafficLight from './TrafficLight';
+import CountLimit from './Count_limit';
 
 
 function App() {
@@ -178,6 +180,10 @@ function App() {
     <JobBoard />
     <hr />
     <ChildToParent />
+    <hr />
+    <TrafficLight />
+    <hr />
+    <CountLimit />
 
     </div>
 
