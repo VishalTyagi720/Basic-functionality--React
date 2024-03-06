@@ -183,7 +183,7 @@ function App() {
     <hr />
     <TrafficLight />
     <hr />
-    <CountLimit />
+    {/* <CountLimit /> */}
 
     </div>
 
