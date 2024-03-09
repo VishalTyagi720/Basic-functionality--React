@@ -23,6 +23,7 @@ import JobBoard from './job_board';
 import ChildToParent from './childToParent';
 import TrafficLight from './TrafficLight';
 import CountLimit from './Count_limit';
+import GridLights from './Grid_Ligths';
 
 
 function App() {
@@ -184,6 +185,8 @@ function App() {
     <TrafficLight />
     <hr />
     {/* <CountLimit /> */}
+    <hr />
+    <GridLights />
 
     </div>
 
